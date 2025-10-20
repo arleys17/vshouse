@@ -1,4 +1,9 @@
-n1 = int(input('digite um numero:'))
-n2 = int(input('digite outro numero:'))
-soma = (n1+n2)
-print ('a soma e', soma)
+nome = (input('Coloque seu nome '))
+valor = int (input ("Coloque um valor "))
+dobro = int (valor * 2)
+triplo = int (valor * 3)
+quadrado = int (valor ** 2)
+raiz_quadrada = int (valor ** 0.5)
+raiz_cubica = int (valor ** (1/3))
+
+print (f'Olá {nome} o dobro do valor {valor} é {dobro}')

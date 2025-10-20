@@ -1,7 +1,3 @@
 nome=(input('coloque seu nome:'))
 valor=(input("Digite um valor:"))
-dobro= (valor * 2)
-triplo= (valor * 3)
-Quadrado=(valor**2)
-Raiz_quadrada= (valor **(0.5)
-Raiz_cúbica = (valor ** (1/3)
+dobro= vvlor
